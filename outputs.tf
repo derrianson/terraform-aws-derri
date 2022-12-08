@@ -15,4 +15,4 @@ output "secret_number" {
 }
 
 output "customOutput" {
-value = "hi ${var.name} !! How are you ... This is cool @w@" }
+value = "hi ${var.name} !! How are you ... This is cool @w@" 

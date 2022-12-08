@@ -13,3 +13,6 @@ output "secret_number" {
   value = 12312
 
 }
+
+output "customOutput" {
+value = "hi ${var.name} !! How are you ... This is cool @w@" }
